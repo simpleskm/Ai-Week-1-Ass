@@ -1,7 +1,7 @@
 ##Branding and business set-up
 ✅ Business Name
 
-Smartstar Digital Solutions (your existing brand)
+Smartstar Digital Solutions
 
 ✅ Tagline
 
@@ -11,7 +11,7 @@ Smartstar Digital Solutions (your existing brand)
 
 To empower startups, students, and small businesses with AI-driven digital solutions that merge creativity, technology, and learning into one ecosystem.
 
-✅ Brand Story (AI-driven angle)
+✅ Brand Story
 
 In a world where digital presence defines success, Smartstar Digital was born with a mission: to fuse creativity with artificial intelligence. 
 Unlike traditional agencies, Smartstar leverages AI to design graphics, build websites, optimize social media, and even teach skills like chess and smart learning. 
